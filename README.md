@@ -44,5 +44,4 @@ Restart nginx,
 sudo service nginx restart
 Now install python packages and start flask server
 sudo apt-get install python3-pip
-sudo pip3 install -r /home/ubuntu/BangloreHomePrices/server/requirements.txt
-python3 /home/ubuntu/BangloreHomePrices/client/server.py
+sudo pip3 install -r 
